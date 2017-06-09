@@ -10,6 +10,7 @@
 #import <SceneKit/SceneKit.h>
 #import <ARKit/ARKit.h>
 
-@interface ViewController : UIViewController
-
+@interface ViewController : UIViewController<UIAlertViewDelegate,ARSessionDelegate>
+@property NSString *myDefaultURL;
+@property NSArray *myAnchors;
 @end

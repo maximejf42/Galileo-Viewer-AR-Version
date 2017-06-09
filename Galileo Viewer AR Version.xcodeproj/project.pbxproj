@@ -280,7 +280,7 @@
 				DEVELOPMENT_TEAM = 8RV36K5JJ4;
 				INFOPLIST_FILE = "Galileo Viewer AR Version/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.zimmelman.Galileo-Viewer-AR-Version";
+				PRODUCT_BUNDLE_IDENTIFIER = org.zimmelman.GalileoViewerAugmentedRealityVersion;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -293,7 +293,7 @@
 				DEVELOPMENT_TEAM = 8RV36K5JJ4;
 				INFOPLIST_FILE = "Galileo Viewer AR Version/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.zimmelman.Galileo-Viewer-AR-Version";
+				PRODUCT_BUNDLE_IDENTIFIER = org.zimmelman.GalileoViewerAugmentedRealityVersion;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -318,6 +318,7 @@
 				7C81BA5C1EEAF8B20033B660 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
